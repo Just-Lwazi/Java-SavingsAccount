@@ -29,7 +29,7 @@ public class SavingAccount {
         else{System.out.println("You just withdrew " + amoountToWithdraw);}
 
 
-        return amoountToWithdraw;
+        return amountToWithdraw;
     }
 
     public static void main(String [] args){
